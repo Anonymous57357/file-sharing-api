@@ -22,6 +22,4 @@ A simple file-sharing API that allows users to upload and download files with te
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/file-sharing-api.git
-
-
+git clone https://github.com/Anonymous57357/file-sharing-api.git
